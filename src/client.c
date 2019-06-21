@@ -58,7 +58,7 @@ urlinfo_t *parse_url(char *url)
 
   // printf("Path: %s\n", path);
   // printf("Port: %s\n", port);
-  printf("Host: %s\n", hostname);
+  // printf("Host: %s\n", hostname);
 
   return urlinfo;
 }
